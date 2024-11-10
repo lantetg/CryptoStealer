@@ -1,5 +1,5 @@
 <h1 align="center">
-X1na Crypto Stealer.
+lane Crypto Stealer.
   <div align="center">
   <div>
    <a href="https://ibb.co/HXc2pzS"><img src="https://i.ibb.co/QXWcjNg/x1na-c-RYPTO-STEALER.png" alt="x1na-c-RYPTO-STEALER" border="0"></a>
@@ -9,7 +9,7 @@ X1na Crypto Stealer.
 
  
 <p align="center">
-<a href="https://t.me/hackingtoolsf">Telegram</a><br>
+<a href="https://t.me/lanetg">Telegram</a><br>
   🔱 Join our Telegram Channel for support 🔱
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
