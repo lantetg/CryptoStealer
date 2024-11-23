@@ -2,7 +2,7 @@
 lane Crypto Stealer.
   <div align="center">
   <div>
-   <a href="https://ibb.co/HXc2pzS"><img src="https://i.ibb.co/QXWcjNg/x1na-c-RYPTO-STEALER.png" alt="x1na-c-RYPTO-STEALER" border="0"></a>
+   <a href="https://ibb.co/Zg28Swx"><img src="https://i.ibb.co/FYHwXfz/lane-2.png" alt="lane-2" border="0"></a>
   </div>
   </div> 
 
